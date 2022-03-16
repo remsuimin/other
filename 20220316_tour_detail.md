@@ -8,8 +8,9 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 
 ---
 ## 宿泊施設
-湯めぐり海百景　鳥羽シーサイドホテル
-賢島から[37分](https://goo.gl/maps/Q4yumrW5oLb5kJgn7)
+- [湯めぐり海百景　鳥羽シーサイドホテル](https://www.tobaseasidehotel.co.jp/)
+    - 賢島から[37分](https://goo.gl/maps/Q4yumrW5oLb5kJgn7)
+    - [プラン詳細](https://www.jalan.net/uw/uwp3200/uww3201init.do?callbackHistFlg=1&adultNum=5&roomCount=1&stayDay=20&stayMonth=03&stayYear=2022&distCd=01&stayCount=1&roomCrack=500000&yadNo=316165&smlCd=241105&screenId=UWW3101&planCd=03140850&roomTypeCd=0345012&planListNumPlan=4_1_0&groupBookingFlg=&ccnt=2508-A-plan-link)
 ---
 ## ルート
 基本は[web上のモデルコース](https://www.orion-tour.co.jp/air/fair/model_course/42186/)を流用して作成した。
@@ -86,7 +87,7 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 - [キッチンたきがわ](https://goo.gl/maps/dts35UuR4piwciu49)
     - 古き良き日本式洋食レストラン。リーズナブルで量が多い。
 
-
+---
 # 1日目の晩ごはん
 19時で予約するのがいいかと思っている。鳥羽エリアにて、高価な旅行客向けの店は除外した。
 ## 肉
@@ -101,7 +102,7 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 - [大阪屋](https://goo.gl/maps/yvkUVAQAkL9SnzmG6)
     - ここの方がエビフライは美味しい。庶民的。
 
-
+---
 # 2日目の昼ごはん
 鳥羽エリアにて、高価な旅行客向けの店は除外した。
 ## 肉
