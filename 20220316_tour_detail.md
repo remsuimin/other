@@ -33,9 +33,9 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 
 *昼食*
 
-#### [賢島エスパーニャクルーズ 英虞湾遊覧 専用駐車場](https://goo.gl/maps/bppEqB230EJzUnJr9)へ移動(35分,25km)
+#### [賢島エスパーニャクルーズ 英虞湾遊覧 専用駐車場](https://goo.gl/maps/3sTF3jfB8PM2MkAB9)へ移動(35分,25km)
 - 賢島エスパーニャクルーズ
-    - [詳細](https://shimamarineleisure.com/cruise/espana/info/)
+    - [詳細](https://shima-marineleisure.com/cruise/espana/info/)
     - 14:30, 15:30賢島発
     - 所要時間: 50分
 - 賢島エリア
