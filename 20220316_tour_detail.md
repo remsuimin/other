@@ -7,11 +7,10 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 19:20 伊勢市駅
 
 ---
-
 ## 宿泊施設
 湯めぐり海百景　鳥羽シーサイドホテル
 賢島から[37分](https://goo.gl/maps/Q4yumrW5oLb5kJgn7)
-
+---
 ## ルート
 基本は[web上のモデルコース](https://www.orion-tour.co.jp/air/fair/model_course/42186/)を流用して作成した。
 
@@ -45,7 +44,7 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 
 *夕食*
 
-
+---
 ### 2日目
 <!--
 - [キッチンたかま](https://goo.gl/maps/brTdRprBqbqXLgoZ8)
@@ -102,3 +101,25 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 - [大阪屋](https://goo.gl/maps/yvkUVAQAkL9SnzmG6)
     - ここの方がエビフライは美味しい。庶民的。
 
+
+# 2日目の昼ごはん
+鳥羽エリアにて、高価な旅行客向けの店は除外した。
+## 肉
+- [（有）豚捨](https://goo.gl/maps/AeKZfn1Ekp5FiiNA9)
+    - コロッケ70円、おやつが買える。食事はできない。
+## 魚介
+- [むつみ](https://goo.gl/maps/V2SbKc4QSx7ZURks9)
+    - 海鮮丼、エビフライなど。昼は行列ができる。
+- [浦村かき かき太郎](https://g.page/kakitarou?share)
+- [中山かき養殖場](https://goo.gl/maps/61pe8m3Di7XvwdcD7)
+- [マルナカ水産マルマ本店](https://goo.gl/maps/AF33LDxLyh7THjd29)
+    - 焼き牡蠣1個だいたい150円。カキフライなど。どの店も同じ感じ。おやつ感覚で訪れることもできそう。
+- [鳥羽風土](https://goo.gl/maps/thVGi9sdCjgRZjpu6)
+    - しらす、牡蠣、アカモク（ぎばさ）など。丼ものが多い。
+## その他、洋食など
+- [大阪屋](https://goo.gl/maps/yvkUVAQAkL9SnzmG6)
+    - ここの方がエビフライは美味しい。庶民的。
+- [お食事処 錦屋](https://goo.gl/maps/yeogEVYJkvZ1vx9HA)
+    - 海鮮丼、エビフライ、伊勢うどん、手ごね寿司など。お手頃な定食屋。
+- [伊勢うどん 七越本店](https://goo.gl/maps/wkesYSQr2hCvB8p66)
+    - うどん。
