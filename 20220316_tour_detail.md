@@ -88,7 +88,7 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
     - 古き良き日本式洋食レストラン。リーズナブルで量が多い。
 
 ---
-# 1日目の晩ごはん
+# 1日目の晩ごはん(鳥羽)
 19時で予約するのがいいかと思っている。鳥羽エリアにて、高価な旅行客向けの店は除外した。
 ## 肉
 - [泉門天](https://goo.gl/maps/63fA7c3ahZeRtAdw5)
@@ -101,6 +101,30 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 ## その他、洋食など
 - [大阪屋](https://goo.gl/maps/yvkUVAQAkL9SnzmG6)
     - ここの方がエビフライは美味しい。庶民的。
+- [お食事処 錦屋](https://goo.gl/maps/yeogEVYJkvZ1vx9HA)
+    - 20時まで営業。海鮮丼、エビフライ、伊勢うどん、手ごね寿司など。お手頃な定食屋。
+
+---
+# 1日目の晩ごはん(志摩)
+鳥羽での予約が取れないので一応サーチだけしました。
+## 肉
+- [焼肉うえむら](https://goo.gl/maps/NZEryie2sedZWkCq9)
+    - 営業時間17:00-18:30 比較的リーズナブルだが肉質はよい。要予約。
+
+## 魚介
+- [ひでちゃん](https://goo.gl/maps/YhuTA9td76SVxhtr8)
+    - 刺身定食1000円で素晴らしいクオリティ。広くないので予約した方がよい。
+- [志摩磯料理かもめ家](https://goo.gl/maps/tYMpLVNFymMR1E1x7)
+    - 予算2000-30000円、居酒屋。手ごね寿司、刺身、海鮮丼など。リーズナブルらしい。
+## その他、洋食など
+- [炭火焼うなぎ 東山物産](https://goo.gl/maps/WZrNiyWepffzZQhC7)
+    - L.O.18時　要予約。鰻丼並1980円。
+- [つぼ亭](https://goo.gl/maps/jRHrSY82isaJdqKM8)
+    - 家庭的な洋食レストラン。グラタンなど。
+
+
+
+
 
 ---
 # 2日目の昼ごはん
