@@ -97,7 +97,7 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 - [むつみ](https://goo.gl/maps/V2SbKc4QSx7ZURks9)
     - 海鮮丼、エビフライなど。昼は行列ができる。
 - [一栄](https://goo.gl/maps/5YsQtffUhmfRAtHfA)
-    - 要予約。地元民やタクシー運転手のおすすめらしい。量も多くて良い。
+    - 要予約。地元民やタクシー運転手のおすすめらしい。量も多くて良い。予約がいっぱいで取れなかった．
 ## その他、洋食など
 - [大阪屋](https://goo.gl/maps/yvkUVAQAkL9SnzmG6)
     - ここの方がエビフライは美味しい。庶民的。
