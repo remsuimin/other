@@ -45,8 +45,8 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
     - [詳細](https://shima-marineleisure.com/cruise/espana/info/)
     - 14:30, 15:30賢島発
     - 所要時間: 50分
-    - [割引チケット](https://bs.benefit-one.co.jp/bs/pages/bs/srch/menuPrticSrchRslt.faces?menuNo=676137)を忘れずに]
-    - コンビニ前売り券の番号は0236339
+    - [割引チケット](https://bs.benefit-one.co.jp/bs/pages/bs/srch/menuPrticSrchRslt.faces?menuNo=676137)を忘れずに
+    - コンビニ前売り券の番号は0236339 (100円引き)
 - 賢島エリア
 
 #### [京城 鵜方店](https://goo.gl/maps/VFUYfTbdxfQGDNtL9)へ移動(5分, 2.4km)
