@@ -1,7 +1,10 @@
 # 旅行: 伊勢志摩(3/20-21)
 ## 集合
 10:30 伊勢市駅
+
 cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
+6:30敦賀 -> 8:20南草津 -> 10:00伊勢市駅
+
 
 ## 解散
 19:20 伊勢市駅
@@ -11,6 +14,10 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 - [湯めぐり海百景　鳥羽シーサイドホテル](https://www.tobaseasidehotel.co.jp/)
     - 賢島から[37分](https://goo.gl/maps/Q4yumrW5oLb5kJgn7)
     - [プラン詳細](https://www.jalan.net/uw/uwp3200/uww3201init.do?callbackHistFlg=1&adultNum=5&roomCount=1&stayDay=20&stayMonth=03&stayYear=2022&distCd=01&stayCount=1&roomCrack=500000&yadNo=316165&smlCd=241105&screenId=UWW3101&planCd=03140850&roomTypeCd=0345012&planListNumPlan=4_1_0&groupBookingFlg=&ccnt=2508-A-plan-link)
+    - チェックイン 20:00
+    - チェックアウト ~10:00
+    - 予約番号: 08XY96CH
+
 ---
 ## ルート
 基本は[web上のモデルコース](https://www.orion-tour.co.jp/air/fair/model_course/42186/)を流用して作成した。
@@ -38,12 +45,16 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
     - [詳細](https://shima-marineleisure.com/cruise/espana/info/)
     - 14:30, 15:30賢島発
     - 所要時間: 50分
+    - [割引チケット](https://bs.benefit-one.co.jp/bs/pages/bs/srch/menuPrticSrchRslt.faces?menuNo=676137)を忘れずに]
+    - コンビニ前売り券の番号は0236339
 - 賢島エリア
 
-#### [湯めぐり海百景　鳥羽シーサイドホテル](https://g.page/tobaseaside?share)へ移動、宿泊(37分, 24.5km)
-- 18:30 チェックイン
+#### [京城 鵜方店](https://goo.gl/maps/VFUYfTbdxfQGDNtL9)へ移動(5分, 2.4km)
+*夕食　18時にて予約済み*
 
-*夕食*
+#### [湯めぐり海百景　鳥羽シーサイドホテル](https://g.page/tobaseaside?share)へ移動、宿泊(30分, 22.1km)
+- 20:00 チェックイン
+
 
 ---
 ### 2日目
@@ -53,11 +64,13 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
     - 550円モーニング有りの名古屋系デカ盛りカフェ
 -->
 
-温泉に入るなど、10時チェックアウト
+温泉に入るなど、ゆっくりしてから10時チェックアウト
 
 *昼食*
 
 - 鳥羽水族館
+    - 学割を忘れずに (300円引き)
+    - コンビニ前売り券の番号は0258089 (100円引き)
 #### [横山天空カフェテラス](https://goo.gl/maps/mEaoRMA8c5bX1dUi9)へ移動(30分, 22.7km)
 - 横山天空カフェテラス
 <!-- ここまで編集済み
@@ -90,14 +103,18 @@ cf.[南草津からのルート](https://goo.gl/maps/zA2VbduF6Tw1Lbbo7)
 ---
 # 1日目の晩ごはん(鳥羽)
 19時で予約するのがいいかと思っている。鳥羽エリアにて、高価な旅行客向けの店は除外した。
+<!--
 ## 肉
 - [泉門天](https://goo.gl/maps/63fA7c3ahZeRtAdw5)
     - 要予約。安価で美味しい松阪牛。予約がいっぱいで取れなかった．
+-->
 ## 魚介
 - [むつみ](https://goo.gl/maps/V2SbKc4QSx7ZURks9)
     - 海鮮丼、エビフライなど。昼は行列ができる。
+<!--
 - [一栄](https://goo.gl/maps/5YsQtffUhmfRAtHfA)
     - 要予約。地元民やタクシー運転手のおすすめらしい。量も多くて良い。予約がいっぱいで取れなかった．
+-->
 ## その他、洋食など
 - [大阪屋](https://goo.gl/maps/yvkUVAQAkL9SnzmG6)
     - ここの方がエビフライは美味しい。庶民的。
